@@ -1,2 +1,7 @@
-testing reset commit :1
+IDK how to use this vi text editor
+Commit
+Revert 1
+C
+C
+helllllltesting reset commit :1
 this is sample file 1 
