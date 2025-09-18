@@ -1,2 +1,6 @@
+
 This file will be merged later.
+
+testing reset commit :1
+
 this is sample file 1 
