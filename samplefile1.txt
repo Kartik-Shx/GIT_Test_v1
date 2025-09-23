@@ -4,3 +4,5 @@ This file will be merged later.
 testing reset commit :1
 
 this is sample file 1 
+This is Stash Lecture ,Change in File 1
+This is Stash Lecture 2 , Again Change in File1
